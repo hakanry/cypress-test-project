@@ -6,4 +6,5 @@
     Bootstrap
     Axios
     Cypress
-    ![alt text](C:\Users\Hakan R. YALÇIN\Documents\Github\cypress-test-project\cypress-screenshot.png)
+    
+![cypress-screenshot](https://github.com/user-attachments/assets/edbe6a7c-38c9-47e8-9196-239b3231df8e)
