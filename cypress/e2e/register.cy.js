@@ -2,7 +2,7 @@ import { errorMessages } from "../../src/components/Register";
 
 describe("Kayıt Sayfası", () => {
   beforeEach(() => {
-    cy.visit("http://localhost:5173/");
+    cy.visit("http://localhost:4000/");
   });
   describe("Olumsuz Testler", () => {
     it("Ad girişi yanlış mı?", () => {
